@@ -1,0 +1,6 @@
+x=int("10",16)
+print(x)
+print(type(x))
+y=int("9",16)
+print(y)
+print(type(y))

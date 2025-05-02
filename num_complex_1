@@ -1,0 +1,6 @@
+#complex 
+a=2+3j
+b=3+2j
+c=a==b
+print("a and b are equal:")
+print(c)

@@ -1,0 +1,6 @@
+a=0.625 # a is a decimal number 
+b=0.5+0.125 #0.101 in binary 
+c=a==b
+print(a)
+print(b)
+print("are they equal:",c)

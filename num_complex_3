@@ -1,0 +1,6 @@
+a=143+3j
+b=136+23j
+c=a+b
+print("value of c :")
+print(c)
+
